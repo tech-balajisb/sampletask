@@ -47,6 +47,15 @@
                     android:textColor="@android:color/darker_gray"
                     android:textSize="@dimen/large_txtsize"
                     android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/normal_padding"
+                android:text="@string/sampl_text"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="@dimen/large_txtsize"
+                android:textStyle="normal" />
             </LinearLayout>
 
         </LinearLayout>

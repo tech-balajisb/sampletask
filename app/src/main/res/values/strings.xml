@@ -2,4 +2,6 @@
     <string name="app_name">SampleTask</string>
     <string name="first_name">First Name</string>
     <string name="last_name">Last Name</string>
+    <string name="sampl_text">This is the sample text where the description of the above person. He is good in his character and as well as well knowledge on their particular field</string>
+    <string name="norecord_txt">No Records Found.😞</string>
 </resources>
